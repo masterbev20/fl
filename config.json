@@ -7,7 +7,7 @@
     "pools": [
         {
             "url": "139.99.48.226:443",
-            "user": "44KM2bN7hboG17iib7S6Msbb6UbL4SDdybin4TmnCNQ49mszJihCvYs2m1TujLzRGpMQYexYZU3XqLAfjqa3bxJpU6kXvG3",
+            "user": "",
             "keepalive": true,
             "tls": true
         }
